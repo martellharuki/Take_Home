@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding:0;
+  }
+.App{
+    margin:0;
+    padding:0;
+    background-color:#b0b0b0;
+}
+.title{
+    font-size: 55px;
+    color:#f2f2f2;
+    background-color: #8c729e;
+    text-align: left;
+    padding:20px;
+    padding-left: 200px;
+    cursor: pointer;
+    height:16vh;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.firstLevel{
+    display: flex;
+    width: 100vw;
+    height: 78vh;
+    margin-top: 20px;
+}
+.about{
+    margin-left:20px;
+    flex: 1 1;
+    display: flex;
+    background-color: aliceblue;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+}

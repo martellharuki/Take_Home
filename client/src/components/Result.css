@@ -1,0 +1,16 @@
+.main_result{
+    width:100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    font-weight: bold;
+    flex-direction: column;
+}
+.text_result{
+    margin: 5%
+}
+.personal_result{
+    font-size: 35px;
+}

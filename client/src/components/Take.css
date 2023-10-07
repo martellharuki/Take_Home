@@ -1,0 +1,38 @@
+.take_main{
+    width: 100%;
+    height: 100%;
+}
+.cred_entry_take{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width:30%;
+    font-size: 35px;
+    text-align: center;
+    border-radius: 10px;
+}
+.find_button_take{
+    margin-top: 4%;
+    width:20%;
+    font-size: 35px;
+    font-weight: bold;
+    background-color: #f5f5f5;
+    color: #2f1f36;
+    padding:1%;
+    border-radius: 25px;
+    cursor: pointer;
+}
+.cred_entry_container_take{
+    width: 100%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.error_box_take{
+    display:flex;
+    width:100%;
+    height:20%;
+    justify-content: center;
+    font-size: 35px;
+}
